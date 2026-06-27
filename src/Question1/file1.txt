@@ -1,1 +1,2 @@
 This is my git Assignment.
+Changes done, part of question 1
